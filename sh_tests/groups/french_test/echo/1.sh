@@ -1,0 +1,15 @@
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a
+echo -n -n -nnnn -nnnnm ; echo a

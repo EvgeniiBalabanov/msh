@@ -1,0 +1,1 @@
+echo 'hello'$PWD"test$HOME"

@@ -1,0 +1,1 @@
+echo -n -n -n 1234 -n qwerty

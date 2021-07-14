@@ -1,0 +1,1 @@
+export VAR1=value1; export VAR2=value2; export VAR3=value3; unset VAR1 VAR3; echo $VAR1 $VAR2 $VAR3

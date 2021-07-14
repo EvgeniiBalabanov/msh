@@ -1,0 +1,28 @@
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL
+$SHLVL
+echo $SHLVL

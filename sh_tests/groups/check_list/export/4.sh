@@ -1,0 +1,1 @@
+export "HELLO=hello_txt HELLO2=hello_txt"; export

@@ -1,0 +1,1 @@
+env ZZZ=123 | sort | grep ZZZ

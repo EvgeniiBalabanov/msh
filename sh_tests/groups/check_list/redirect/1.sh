@@ -1,0 +1,1 @@
+echo "test message" > log_redirect; echo log_redirect; rm -rf log_redirect

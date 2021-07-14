@@ -1,0 +1,1 @@
+unset PATH; echo $PATH

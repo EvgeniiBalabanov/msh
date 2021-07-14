@@ -1,0 +1,1 @@
+export VAR1=value; unset VAR1; echo $VAR1

@@ -1,0 +1,1 @@
+ls;cowsay         test     ;     echo 1234
